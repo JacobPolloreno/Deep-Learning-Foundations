@@ -116,6 +116,7 @@ with tf.Session() as sess:
     # Fit training data
     for epoch in range(training_epoch):
         avg_cost = 0.
+        # Implement mini-batch gradient descent
         total_batch = int(train_records / batch_size)
         # Loop over all batches
         for i in range(total_batch):
