@@ -9,3 +9,8 @@ dlnd-project-1/:
 - dlnd-your-first-neural-network.ipynb: jupyter notebook stepping through project
 - dlnd-your-first-neural-network.html: output of notebook
 - tfImplementation_firstNN.py: first Tensorflow implementation of this project
+
+## Project 2 - Image Classification with Convolution Neural Networks
+- dlnd_image_classification.ipynb: jupyter notebook stepping through project(also downloads CIFAR-10
+  dataset)
+- dlnd_image_classification.html: output of notebook
