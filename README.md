@@ -14,3 +14,7 @@ dlnd-project-1/:
 - dlnd_image_classification.ipynb: jupyter notebook stepping through project(also downloads CIFAR-10
   dataset)
 - dlnd_image_classification.html: output of notebook
+
+## Project 3 - Generate TV Scripts with Sentiment RNN
+- dlnd_tv_script_generation.ipynb
+- dlnd_tv_script_generation.html: output of notebook
