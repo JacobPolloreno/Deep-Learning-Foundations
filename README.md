@@ -18,3 +18,13 @@ dlnd-project-1/:
 ## Project 3 - Generate TV Scripts with Sentiment RNN
 - dlnd_tv_script_generation.ipynb
 - dlnd_tv_script_generation.html: output of notebook
+
+## Project 4 - Language Translation with Sequence 2 Sequence
+- dlnd_language_translation.ipynb
+- dlnd_language_translation.html: output of notebook
+- helper.py: utility functions for notebook
+
+## Project 5 - Generate Faces with Generative Adversarial Networks
+- dlnd_face_generation.ipynb
+- dlnd_face_generation.html: output of notebook
+- helper.py: utility functions for notebook
